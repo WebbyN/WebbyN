@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Webby Nyirenda
 - 👀 I’m interested in Web Development, Machine Learning and Computer Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me at webbynyirenda18i@gmail.com
 
