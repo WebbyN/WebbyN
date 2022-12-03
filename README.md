@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Webby Nyirenda
-- 👀 I’m interested in Web Development, Machine Learning and Computer Science
-- 🌱 I’m currently learning Java and C#
-- 💞️ I’m looking to collaborate on Full Stack Web Development
+- 👀 I’m interested in Web Development and Software Development
+- 🌱 I’m currently learning Java, C#, laravel and flutter
+- 💞️ I’m looking to collaborate on Full Stack Web Development and Software Development
 - 📫 How to reach me at webbynyirenda18i@gmail.com
 
 <!---
